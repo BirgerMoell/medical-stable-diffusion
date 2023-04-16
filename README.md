@@ -8,6 +8,10 @@ https://huggingface.co/datasets/alkzar90/NIH-Chest-X-ray-dataset
 4. Train the stable diffusion / controlnet model on the description and images.
 
 
-List of medical datasets
+## List of medical datasets
 
 https://docs.google.com/spreadsheets/d/1zU3qbGpqbRySeyn7jJarPxdLBPH33Jzw4U0u-49nf0U/edit?usp=sharing
+
+
+## How to access TPUs
+https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint#setting-up-your-tpu-vm
