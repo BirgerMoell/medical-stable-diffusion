@@ -15,3 +15,7 @@ https://docs.google.com/spreadsheets/d/1zU3qbGpqbRySeyn7jJarPxdLBPH33Jzw4U0u-49n
 
 ## How to access TPUs
 https://github.com/huggingface/community-events/tree/main/jax-controlnet-sprint#setting-up-your-tpu-vm
+
+
+## Information on how to use our 3 terrabyte drive
+https://cloud.google.com/tpu/docs/setup-persistent-disk#mount-pd
